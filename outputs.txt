@@ -1,0 +1,344 @@
+--------- INITIAL SCAN AND TOKEN LIST --------
+Token is 1(C) and state is 0
+Token is 1(L) and state is 1
+Token is 1(A) and state is 1
+Token is 1(S) and state is 1
+Token is 1(S) and state is 1
+Token is 0( ) and state is 1
+bToken created with token CLASS and type VAR
+Token is 0( ) and state is 0
+Token is 1(P) and state is 0
+Token is 1(g) and state is 1
+Token is 1(m) and state is 1
+Token is 2(1) and state is 1
+Token is 0( ) and state is 1
+bToken created with token Pgm1 and type VAR
+Token is 0( ) and state is 0
+Token is 11({) and state is 0
+Token is 1(C) and state is 28
+bToken created with token { and type $LB
+Token is 1(C) and state is 0
+Token is 1(O) and state is 1
+Token is 1(N) and state is 1
+Token is 1(S) and state is 1
+Token is 1(T) and state is 1
+Token is 0( ) and state is 1
+bToken created with token CONST and type $CONST
+Token is 0( ) and state is 0
+Token is 1(M) and state is 0
+Token is 0( ) and state is 1
+bToken created with token M and type VAR
+Token is 0( ) and state is 0
+Token is 5(=) and state is 0
+Token is 0( ) and state is 11
+bToken created with token = and type ASSIGN
+Token is 0( ) and state is 0
+Token is 2(1) and state is 0
+Token is 2(3) and state is 3
+Token is 8(,) and state is 3
+bToken created with token 13 and type LIT
+Token is 8(,) and state is 0
+Token is 0( ) and state is 20
+bToken created with token , and type COMMA
+Token is 0( ) and state is 0
+Token is 1(N) and state is 0
+Token is 0( ) and state is 1
+bToken created with token N and type VAR
+Token is 0( ) and state is 0
+Token is 5(=) and state is 0
+Token is 0( ) and state is 11
+bToken created with token = and type ASSIGN
+Token is 0( ) and state is 0
+Token is 2(5) and state is 0
+Token is 2(6) and state is 3
+Token is 15(;) and state is 3
+bToken created with token 56 and type LIT
+Token is 15(;) and state is 0
+Token is 1(V) and state is 36
+bToken created with token ; and type SEMI
+Token is 1(V) and state is 0
+Token is 1(A) and state is 1
+Token is 1(R) and state is 1
+Token is 0( ) and state is 1
+bToken created with token VAR and type $VAR
+Token is 0( ) and state is 0
+Token is 1(X) and state is 0
+Token is 8(,) and state is 1
+bToken created with token X and type VAR
+Token is 8(,) and state is 0
+Token is 0( ) and state is 20
+bToken created with token , and type COMMA
+Token is 0( ) and state is 0
+Token is 1(Y) and state is 0
+Token is 8(,) and state is 1
+bToken created with token Y and type VAR
+Token is 8(,) and state is 0
+Token is 0( ) and state is 20
+bToken created with token , and type COMMA
+Token is 0( ) and state is 0
+Token is 1(Z) and state is 0
+Token is 15(;) and state is 1
+bToken created with token Z and type VAR
+Token is 15(;) and state is 0
+Token is 1(l) and state is 36
+bToken created with token ; and type SEMI
+Token is 1(l) and state is 0
+Token is 1(e) and state is 1
+Token is 1(t) and state is 1
+Token is 1(s) and state is 1
+Token is 1(h) and state is 1
+Token is 1(a) and state is 1
+Token is 1(v) and state is 1
+Token is 1(e) and state is 1
+Token is 1(e) and state is 1
+Token is 1(r) and state is 1
+Token is 1(r) and state is 1
+Token is 1(o) and state is 1
+Token is 1(r) and state is 1
+Token is 1(s) and state is 1
+Token is 9(+) and state is 1
+bToken created with token letshaveerrors and type VAR
+Token is 9(+) and state is 0
+Token is 9(+) and state is 22
+Token is 4(/) and state is 22
+bToken created with token ++ and type ERROR
+Token is 4(/) and state is 0
+Token is 1(I) and state is 7
+bToken created with token / and type MOP
+Token is 1(I) and state is 0
+Token is 1(F) and state is 1
+Token is 0( ) and state is 1
+bToken created with token IF and type $IF
+Token is 0( ) and state is 0
+Token is 1(X) and state is 0
+Token is 0( ) and state is 1
+bToken created with token X and type VAR
+Token is 0( ) and state is 0
+Token is 5(=) and state is 0
+Token is 5(=) and state is 11
+bToken created with token == and type RELOP
+Token is 0( ) and state is 0
+Token is 2(7) and state is 0
+Token is 4(/) and state is 3
+bToken created with token 7 and type LIT
+Token is 4(/) and state is 0
+Token is 3(*) and state is 7
+Token is 1(d) and state is 8
+Token is 1(o) and state is 8
+Token is 0( ) and state is 8
+Token is 1(t) and state is 8
+Token is 1(h) and state is 8
+Token is 1(i) and state is 8
+Token is 1(n) and state is 8
+Token is 1(g) and state is 8
+Token is 1(s) and state is 8
+Token is 3(*) and state is 8
+Token is 4(/) and state is 9
+bToken created with token /*do things* and type COMMENT
+Token is 1(W) and state is 0
+Token is 1(H) and state is 1
+Token is 1(I) and state is 1
+Token is 1(L) and state is 1
+Token is 1(E) and state is 1
+Token is 0( ) and state is 1
+bToken created with token WHILE and type $WHILE
+Token is 0( ) and state is 0
+Token is 1(Y) and state is 0
+Token is 0( ) and state is 1
+bToken created with token Y and type VAR
+Token is 0( ) and state is 0
+Token is 6(<) and state is 0
+Token is 5(=) and state is 14
+bToken created with token <= and type RELOP
+Token is 2(2) and state is 0
+Token is 4(/) and state is 3
+bToken created with token 2 and type LIT
+Token is 4(/) and state is 0
+Token is 3(*) and state is 7
+Token is 1(d) and state is 8
+Token is 1(o) and state is 8
+Token is 0( ) and state is 8
+Token is 1(o) and state is 8
+Token is 1(t) and state is 8
+Token is 1(h) and state is 8
+Token is 1(e) and state is 8
+Token is 1(r) and state is 8
+Token is 0( ) and state is 8
+Token is 1(t) and state is 8
+Token is 1(h) and state is 8
+Token is 1(i) and state is 8
+Token is 1(n) and state is 8
+Token is 1(g) and state is 8
+Token is 1(s) and state is 8
+Token is 3(*) and state is 8
+Token is 4(/) and state is 9
+bToken created with token /*do other things* and type COMMENT
+Token is 1(Y) and state is 0
+Token is 0( ) and state is 1
+bToken created with token Y and type VAR
+Token is 0( ) and state is 0
+Token is 5(=) and state is 0
+Token is 0( ) and state is 11
+bToken created with token = and type ASSIGN
+Token is 0( ) and state is 0
+Token is 2(9) and state is 0
+Token is 2(7) and state is 3
+Token is 15(;) and state is 3
+bToken created with token 97 and type LIT
+Token is 15(;) and state is 0
+Token is 1(X) and state is 36
+bToken created with token ; and type SEMI
+Token is 1(X) and state is 0
+Token is 0( ) and state is 1
+bToken created with token X and type VAR
+Token is 0( ) and state is 0
+Token is 5(=) and state is 0
+Token is 0( ) and state is 11
+bToken created with token = and type ASSIGN
+Token is 0( ) and state is 0
+Token is 1(M) and state is 0
+Token is 0( ) and state is 1
+bToken created with token M and type VAR
+Token is 0( ) and state is 0
+Token is 3(*) and state is 0
+Token is 0( ) and state is 5
+bToken created with token * and type MOP
+Token is 0( ) and state is 0
+Token is 13(() and state is 0
+Token is 1(N) and state is 32
+bToken created with token ( and type $LP
+Token is 1(N) and state is 0
+Token is 0( ) and state is 1
+bToken created with token N and type VAR
+Token is 0( ) and state is 0
+Token is 9(+) and state is 0
+Token is 0( ) and state is 22
+bToken created with token + and type ADDOP
+Token is 0( ) and state is 0
+Token is 2(1) and state is 0
+Token is 2(8) and state is 3
+Token is 14()) and state is 3
+bToken created with token 18 and type LIT
+Token is 14()) and state is 0
+Token is 0( ) and state is 34
+bToken created with token ) and type $RP
+Token is 0( ) and state is 0
+Token is 10(-) and state is 0
+Token is 0( ) and state is 24
+bToken created with token - and type ADDOP
+Token is 0( ) and state is 0
+Token is 1(y) and state is 0
+Token is 15(;) and state is 1
+bToken created with token y and type VAR
+Token is 15(;) and state is 0
+Token is 12(}) and state is 36
+bToken created with token ; and type SEMI
+Token: CLASS         Token type: $CLASS
+Token: Pgm1         Token type: $PNAME
+Token: {         Token type: $LB
+Token: CONST         Token type: $CONST
+Token: M         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 13         Token type: LIT
+Token: ,         Token type: COMMA
+Token: N         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 56         Token type: LIT
+Token: ;         Token type: SEMI
+Token: VAR         Token type: $VAR
+Token: X         Token type: VAR
+Token: ,         Token type: COMMA
+Token: Y         Token type: VAR
+Token: ,         Token type: COMMA
+Token: Z         Token type: VAR
+Token: ;         Token type: SEMI
+Token: letshaveerrors         Token type: VAR
+Token: ++         Token type: ERROR
+Token: /         Token type: MOP
+Token: IF         Token type: $IF
+Token: X         Token type: VAR
+Token: ==         Token type: RELOP
+Token: 7         Token type: LIT
+Token: /*do things*         Token type: COMMENT
+Token: WHILE         Token type: $WHILE
+Token: Y         Token type: VAR
+Token: <=         Token type: RELOP
+Token: 2         Token type: LIT
+Token: /*do other things*         Token type: COMMENT
+Token: Y         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 97         Token type: LIT
+Token: ;         Token type: SEMI
+Token: X         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: M         Token type: VAR
+Token: *         Token type: MOP
+Token: (         Token type: $LP
+Token: N         Token type: VAR
+Token: +         Token type: ADDOP
+Token: 18         Token type: LIT
+Token: )         Token type: $RP
+Token: -         Token type: ADDOP
+Token: y         Token type: VAR
+Token: ;         Token type: SEMI
+----------- SYMBOL TABLE ---------
+Pgm1, $PNAME, , 0, 0.
+M, $CONST, 13, 0, 1.
+N, $CONST, 56, 2, 1.
+X, $VAR, , 4, 1.
+Y, $VAR, , 6, 1.
+Z, $VAR, , 8, 1.
+7, LIT, 7, 10, 1.
+2, LIT, 2, 12, 1.
+97, LIT, 97, 14, 1.
+18, LIT, 18, 16, 1.
+------------ REVISED TOKEN LIST ------------
+Token: CLASS         Token type: $CLASS
+Token: Pgm1         Token type: $PNAME
+Token: {         Token type: $LB
+Token: CONST         Token type: $CONST
+Token: M         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 13         Token type: LIT
+Token: ,         Token type: COMMA
+Token: N         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 56         Token type: LIT
+Token: ;         Token type: SEMI
+Token: VAR         Token type: $VAR
+Token: X         Token type: VAR
+Token: ,         Token type: COMMA
+Token: Y         Token type: VAR
+Token: ,         Token type: COMMA
+Token: Z         Token type: VAR
+Token: ;         Token type: SEMI
+Token: letshaveerrors         Token type: VAR
+Token: ++         Token type: ERROR
+Token: /         Token type: MOP
+Token: IF         Token type: $IF
+Token: X         Token type: VAR
+Token: ==         Token type: RELOP
+Token: 7         Token type: LIT
+Token: /*do things*         Token type: COMMENT
+Token: WHILE         Token type: $WHILE
+Token: Y         Token type: VAR
+Token: <=         Token type: RELOP
+Token: 2         Token type: LIT
+Token: /*do other things*         Token type: COMMENT
+Token: Y         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: 97         Token type: LIT
+Token: ;         Token type: SEMI
+Token: X         Token type: VAR
+Token: =         Token type: ASSIGN
+Token: M         Token type: VAR
+Token: *         Token type: MOP
+Token: (         Token type: $LP
+Token: N         Token type: VAR
+Token: +         Token type: ADDOP
+Token: 18         Token type: LIT
+Token: )         Token type: $RP
+Token: -         Token type: ADDOP
+Token: y         Token type: VAR
+Token: ;         Token type: SEMI
+----------- PARSER -----------
